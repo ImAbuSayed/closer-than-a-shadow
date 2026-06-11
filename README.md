@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/closer-than-a-shadow/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Closer Than A Shadow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/closer-than-a-shadow/) |
+| **Get License** | [Get License For Closer Than A Shadow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/closer-than-a-shadow/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0395aed222ac73e55bf65cc6bd1a8ade782d8902b7f0ffb9bccc524eebc74ba6` |
 | **Timestamp** | June 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

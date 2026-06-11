@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Closer Than A Shadow
+
+This log tracks the cryptographic history and versioning for the song **Closer Than A Shadow** (closer-than-a-shadow).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-11T18:52:00.731108 | `v1` | `0395aed222ac73e55bf65cc6bd1a8ade782d8902b7f0ffb9bccc524eebc74ba6` | `ac4599f163e6b7cb51ca20d4d5c254fa6ea9f74ec245e71dc920cb3e13788172` | `2026-06-11_closer-than-a-shadow-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
