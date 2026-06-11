@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I wanna be closer than a shadow on your wall
+> Catching every whisper right before you fall
+> I feel the moonlight pull me in when you are near
+> A gentle fire burning everything I fear
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
